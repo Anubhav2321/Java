@@ -9,6 +9,7 @@ public class Main {
 
         System.out.print("Enter age: ");
         int age = sc.nextInt();
+        sc.nextLine(); // Consume the newline character
 
         System.out.println("Hello " + name);
         System.out.println("Age: " + age);

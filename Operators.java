@@ -8,7 +8,11 @@ public class Operators {
         int b = sc.nextInt();
 
         //Arithmetic Operators
-        System.out.print("the sum of a and b is :" + (a+b));
+        System.out.println("the sum of a and b is :" + (a+b));
+        System.out.println("the difference of a and b is :" + (a-b));
+        System.out.println("the product of a and b is :" + (a*b));
+        System.out.println("the quotient of a and b is :" + (a/b));
+        System.out.println("the remainder of a and b is :" + (a%b));
         sc.close();
     }
 }
