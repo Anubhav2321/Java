@@ -7,6 +7,8 @@ public class sum_array {
         for (int i = 0; i < arr.length; i++) {
             sum += arr[i];
         }
+        double avg = (double) sum / arr.length;
         System.out.println("Sum of the array is: " + sum);
+        System.out.println("Average of the array is: " + avg);
     }
 }
