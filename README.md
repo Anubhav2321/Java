@@ -1,4 +1,7 @@
-## ☕ Java Practice Repository
+## <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0d77f76b-423e-42f5-9756-a8c782415ce7" />
+
+
+ Java Practice Repository
 
 Welcome to my Java learning journey! 🚀
 This repository contains my daily practice codes while learning Java from basic to advanced.
