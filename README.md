@@ -1,28 +1,32 @@
-## <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0d77f76b-423e-42f5-9756-a8c782415ce7" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0d77f76b-423e-42f5-9756-a8c782415ce7" 
+       alt="Java Logo" width="200"/>
+</div>
 
+<h1 align="center">Java Practice Repository</h1>
 
- Java Practice Repository
-
-Welcome to my Java learning journey! 🚀
+<p align="center">
+Welcome to my Java learning journey! 🚀<br>
 This repository contains my daily practice codes while learning Java from basic to advanced.
+</p>
 
 ---
 
-📌 About
+## 📌 About
 
 I am currently learning Java step by step, covering:
 
-- Basic syntax
-- Variables & Data Types
-- User Input using Scanner
-- Conditional statements
-- Loops
-- And more coming soon...
+- Basic syntax  
+- Variables & Data Types  
+- User Input using Scanner  
+- Conditional statements  
+- Loops  
+- And more coming soon...  
 
 ---
 
-📂 Project Structure
-
+## 📂 Project Structure
+```
 JAVA/
 │── Main.java
 │── first.java
@@ -31,66 +35,66 @@ JAVA/
 │── variable.java
 │── .gitignore
 │── README.md
+```
 
 ---
 
-🧠 Topics Covered
+## 🧠 Topics Covered
 
-✅ Basics
+### ✅ Basics
 
-- Java syntax
-- First program
-- Print statements
+- Java syntax  
+- First program  
+- Print statements  
 
-✅ Variables & Data Types
+### ✅ Variables & Data Types
 
-- int, double, String, boolean
+- int, double, String, boolean  
 
-✅ User Input
+### ✅ User Input
 
-- Scanner class
-- nextLine(), nextInt()
+- Scanner class  
+- nextLine(), nextInt()  
 
 ---
 
-🚀 How to Run
+## 🚀 How to Run
 
-1. Install Java (JDK)
-2. Open terminal in project folder
-3. Compile:
+1. Install Java (JDK)  
+2. Open terminal in project folder  
 
+**Compile:**
 javac Main.java
-
-4. Run:
-
-java Main
-
----
-
-⚠️ Note
-
-- ".class" files are ignored using ".gitignore"
-- Only source code (".java") is uploaded
+```
+**Run:**
+```
 
 ---
 
-🎯 Goal
+## ⚠️ Note
 
-To become a Java Developer and build real-world projects 💻
-
----
-
-📈 Progress
-
-- Day 1: Setup & First Program ✅
-- Day 2: Variables & Data Types ✅
-- Day 3: User Input 🔄 (In Progress)
+- ".class" files are ignored using ".gitignore"  
+- Only source code (".java") is uploaded  
 
 ---
 
-🤝 Connect with Me
+## 🎯 Goal
 
-GitHub: https://github.com/Anubhav2321
+To become a Java Developer and build real-world projects 💻  
+
+---
+
+## 📈 Progress
+
+- Day 1: Setup & First Program ✅  
+- Day 2: Variables & Data Types ✅  
+- Day 3: User Input 🔄 (In Progress)  
+
+---
+
+## 🤝 Connect with Me
+
+GitHub: https://github.com/Anubhav2321  
 
 ---
 
