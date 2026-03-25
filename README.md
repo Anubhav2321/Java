@@ -25,16 +25,46 @@ I am currently learning Java step by step, covering:
 
 ---
 
-## 📂 Project Structure
-```
+# 📂 Java Learning Repository Structure
+
+```bash
 JAVA/
-│── Main.java
-│── first.java
-│── print.java
-│── string.java
-│── variable.java
-│── .gitignore
-│── README.md
+│
+├── 📁 basics/
+│   ├── first.java
+│   ├── Main.java
+│   ├── Operators.java
+│   ├── print.java
+│   ├── string.java
+│   ├── variable.java
+│
+├── 📁 conditionals/
+│   ├── if_else.java
+│   ├── elseif.java
+│   ├── logical_if_else.java
+│
+├── 📁 loops/
+│   ├── loop.java
+│   ├── while_loop.java
+│   ├── do_while_loop.java
+│   ├── reverse_loop.java
+│   ├── user_input.java
+│
+├── 📁 arrays/
+│   ├── simple_array.java
+│   ├── sum_array.java
+│   ├── user_input.java
+│
+├── 📁 patterns/
+│   ├── pattern_printing.java
+│   ├── pattern_number.java
+│   ├── reverse_pattern.java
+│   ├── factorial.java
+│
+├── 📄 README.md
+├── 📄 .gitignore
+```
+
 ```
 
 ---
