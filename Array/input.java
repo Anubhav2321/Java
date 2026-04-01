@@ -7,8 +7,6 @@ public class input {
         String car = sc.nextLine();
         System.out.println("Your favourite car is: " + car);
         sc.close();
-    }
-   
-    
-    
+    }  
 }
+
