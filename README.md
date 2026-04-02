@@ -29,7 +29,20 @@ I am currently learning Java step by step, covering:
 
 ```bash
 JAVA/
-│
+├──📁Array
+|   ├──car_name.java
+|   ├──even_odd.java
+|   ├──input.java
+|   ├──linear_search.java
+|   ├──reverse.java
+|   ├──simple_array.java
+|   ├──sum_array.java
+|   ├──user_input.java
+|
+├──📁Function
+|   ├──max_two_numbers.java
+|   ├──print.java
+|   ├── square_function.java
 ├── 📁 basics/
 │   ├── first.java
 │   ├── Main.java
